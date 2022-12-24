@@ -11,6 +11,7 @@ tags.*
 # clangd
 .cache/
 compile_commands.json
+.clangd
 
 .config/
 supertuxkart-64
